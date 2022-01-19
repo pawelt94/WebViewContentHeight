@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{E8DA3D04-4D21-4149-A7C4-61A6963DDD29}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebViewDynamicHeight.Android/MyWebViewRenderer.cs">
+    <Files>
+      <File FileName="WebViewDynamicHeight/MainPage.xaml.cs" Line="15" Column="54" />
+      <File FileName="WebViewDynamicHeight/MainPage.xaml" />
+      <File FileName="WebViewDynamicHeight/MainPageViewModel.cs" />
+      <File FileName="WebViewDynamicHeight.iOS/MyWebViewRednderer.cs" />
+      <File FileName="WebViewDynamicHeight.Android/MyWebViewRenderer.cs" Line="48" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebViewDynamicHeight" expanded="True">
+            <Node name="WebViewDynamicHeight" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="WebViewDynamicHeight.Android" expanded="True">
+              <Node name="MyWebViewRenderer.cs" selected="True" />
+            </Node>
+            <Node name="WebViewDynamicHeight.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Content</Value>
+          <Value>Wiadomosc.OdpowiedzZAPI.Content</Value>
+          <Value>wv.WidthRequest</Value>
+          <Value>fittingSize</Value>
+          <Value>scrollWidth</Value>
+          <Value>webView.EvaluateJavaScriptAsync("document.readyState").Result</Value>
+          <Value>readyState</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebViewDynamicHeight.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9C1A0922-8A02-49D9-8920-1DEB1BF273DD" />
+  <MonoDevelop.Ide.ItemProperties.WebViewDynamicHeight.Android PreferredExecutionTarget="Android.Pixel_5_API_31" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight.iOS/MyWebViewRednderer.cs" relfile="WebViewDynamicHeight.iOS/MyWebViewRednderer.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

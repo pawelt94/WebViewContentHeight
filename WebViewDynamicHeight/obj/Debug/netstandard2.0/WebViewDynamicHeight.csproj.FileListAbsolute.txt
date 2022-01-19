@@ -1,0 +1,15 @@
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/bin/Debug/netstandard2.0/WebViewDynamicHeight.deps.json
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/bin/Debug/netstandard2.0/WebViewDynamicHeight.dll
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/bin/Debug/netstandard2.0/ref/WebViewDynamicHeight.dll
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/bin/Debug/netstandard2.0/WebViewDynamicHeight.pdb
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.csproj.AssemblyReference.cache
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.AssemblyInfoInputs.cache
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.AssemblyInfo.cs
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.csproj.CoreCompileInputs.cache
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.dll
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/ref/WebViewDynamicHeight.dll
+/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight/obj/Debug/netstandard2.0/WebViewDynamicHeight.pdb

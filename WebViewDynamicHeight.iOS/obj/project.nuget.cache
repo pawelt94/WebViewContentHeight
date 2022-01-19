@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/zd2GVk9OzXJufpaLqgQqFdZ4WR9S1XYGwHRYPuDtJdzBDzrx1Rv6Fi/Z0vPl7G4Pm9jGjOvbGYxB1ZDdphBQ==",
+  "success": true,
+  "projectFilePath": "/Users/pawel.tosiek/Projects/WebViewDynamicHeight/WebViewDynamicHeight.iOS/WebViewDynamicHeight.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/pawel.tosiek/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/pawel.tosiek/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/pawel.tosiek/.nuget/packages/xamarin.forms/5.0.0.2291/xamarin.forms.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": []
+}
